@@ -6,7 +6,7 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
-  <a href="#-page">Site</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#-gif">Gif</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -38,20 +38,28 @@ Projeto de cadastro de filmes desenvolvido em Java com Spring. criação de um C
 
 ## 📁 Acesso ao projeto
 
-É possível acessar o projeto através do [Link]()
+É possível acessar o projeto através do [Link](https://github.com/Thamyresmya/Cadastro-de-filmes)
 
 <br>
 
 ## 🛠️ Page
 
-Veja como ficou o projeto [Page]()
+Veja como ficou o projeto [Page](https://thamyresmya.github.io/Cadastro-de-filmes/)
 
 <br>
 
 ## 📸 Gif
-xxxxxxxxxxx
+Cadastro de filmes
 
-<img width="70%" height="300" src=""></img>
+<img width="100%" height="300" src="./geral/img/Cadastrar_Filmes.png"></img>
+
+Alteração de cadastro
+
+<img width="100%" height="300" src="./geral/img/Alterar_Filmes.png"></img>
+
+Listar filmes
+
+<img width="100%" height="300" src="./geral/img/Lista_filmes.png"></img>
 
 <br>
 
