@@ -1,6 +1,6 @@
 # Projeto de Cadastro de filmes
 
-![](img/Capa.png)
+![](geral/img/Capa.jpg)
 
 
 <p align="center">
@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto de cadastro de filmes desenvolvido em Java com Spring. criação de um CRUD, com estruturas de controle e injeção de dependência. Páginas web dinâmicas utilizando Thymeleaf, e banco de dados MySQL para persistir os dados da aplicação, criação de esquema do banco de dados, criação de tabelas, executação de consultas SQL, controle de versionamento utilziando flyway, e utilização do Spring Data JPA para interagir com o banco de dados de forma eficiente. 
+Projeto de cadastro de filmes desenvolvido em Java com Spring boot. Criação de CRUD, com estruturas de controle e injeção de dependência. Páginas web dinâmicas utilizando Thymeleaf, banco de dados MySQL para persistir os dados da aplicação, criação de esquema do banco de dados e tabelas, controle de versionamento com flyway, e utilização do Spring Data JPA para interagir com o banco de dados de forma eficiente.
 
 
 
@@ -49,6 +49,9 @@ Veja como ficou o projeto [Page](https://thamyresmya.github.io/Cadastro-de-filme
 <br>
 
 ## 📸 Gif
+
+<img width="100%" height="300" src="./geral/img/Filmes-Spring-gif.gif"></img>
+
 Cadastro de filmes
 
 <img width="100%" height="300" src="./geral/img/Cadastrar_Filmes.png"></img>
