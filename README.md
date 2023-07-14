@@ -1,5 +1,15 @@
 # Projeto de Cadastro de filmes
 
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Projeto Cadastro de filmes**
+| :label: Tecnologias | HTML, CSS, Java, Spring Boot, MVC, Data JPA, 
+|  | Thymeleaf, MySQL
+| :rocket: URL         | https://github.com/Thamyresmya/Cadastro-de-filmes
+
+<br>
+
+
 ![](geral/img/Capa.jpg)
 
 
